@@ -45,15 +45,25 @@ Development	Jupyter Notebook / Anaconda
 
 📂 Project Structure
 CocaCola_Stock_Analysis/
+
 │
+
 ├── data/
+
 │   ├── Coca-Cola_stock_history.csv
+
 │   ├── Coca-Cola_stock_info.csv
+
 │
+
 ├── notebooks/
+
 │   └── analysis.ipynb         # Full EDA and ML workflow
+
 │
+
 ├── requirements.txt
+
 └── README.md
 
 ⚙️ How to Run
